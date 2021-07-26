@@ -75,6 +75,7 @@ body{
 }
 .resultado .titulo{
     color: var(--blanco);
+    text-transform: uppercase;
 }
 .resultado .texto{
     color: var(--claro);
